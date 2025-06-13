@@ -43,7 +43,7 @@ Financial institutions need to assess credit risk before issuing credit. This ap
 
 ### 1. Clone the repository
 
-git clone https://github.com/your-username/loan-default-predictor.git
+git clone https://github.com/zeesh8x/loan-default-predictor.git
 cd loan-default-predictor
 
 
